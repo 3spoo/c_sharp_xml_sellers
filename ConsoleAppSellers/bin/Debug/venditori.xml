@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<venditori>
+    <venditore>
+    	<area>NO</area>
+        <anagrafica>Donati Aristide</anagrafica>
+	<fatturato_2019_k_euro>120</fatturato_2019_k_euro>
+	<budget_2020_k_euro>130</budget_2020_k_euro>
+    </venditore>
+    <venditore>
+    	<area>NO</area>
+        <anagrafica>Pauli Alberto</anagrafica>
+	<fatturato_2019_k_euro>130</fatturato_2019_k_euro>
+	<budget_2020_k_euro>160</budget_2020_k_euro>
+    </venditore>
+    <venditore>
+    	<area>NO</area>
+        <anagrafica>Passirani Lucia</anagrafica>
+	<fatturato_2019_k_euro>110</fatturato_2019_k_euro>
+	<budget_2020_k_euro>135</budget_2020_k_euro>
+    </venditore>
+
+    <venditore>
+    	<area>NE</area>
+        <anagrafica>Tironi Carlo</anagrafica>
+	<fatturato_2019_k_euro>115</fatturato_2019_k_euro>
+	<budget_2020_k_euro>141</budget_2020_k_euro>
+    </venditore>
+    <venditore>
+    	<area>NE</area>
+        <anagrafica>Ramini Paola</anagrafica>
+	<fatturato_2019_k_euro>90</fatturato_2019_k_euro>
+	<budget_2020_k_euro>110</budget_2020_k_euro>
+    </venditore>
+
+    <venditore>
+    	<area>C</area>
+        <anagrafica>Astulfoni Federico</anagrafica>
+	<fatturato_2019_k_euro>98</fatturato_2019_k_euro>
+	<budget_2020_k_euro>110</budget_2020_k_euro>
+    </venditore>
+    <venditore>
+    	<area>C</area>
+        <anagrafica>Seminati Patrizia</anagrafica>
+	<fatturato_2019_k_euro>70</fatturato_2019_k_euro>
+	<budget_2020_k_euro>77</budget_2020_k_euro>
+    </venditore>
+
+    <venditore>
+    	<area>S</area>
+        <anagrafica>Marazzi Mauro</anagrafica>
+	<fatturato_2019_k_euro>40</fatturato_2019_k_euro>
+	<budget_2020_k_euro>45</budget_2020_k_euro>
+    </venditore>
+
+    <venditore>
+    	<area>I</area>
+        <anagrafica>Albertazzi Mariella</anagrafica>
+	<fatturato_2019_k_euro>35</fatturato_2019_k_euro>
+	<budget_2020_k_euro>42</budget_2020_k_euro>
+    </venditore>
+    <venditore>
+    	<area>I</area>
+        <anagrafica>Alessandrini Luca</anagrafica>
+	<fatturato_2019_k_euro>20</fatturato_2019_k_euro>
+	<budget_2020_k_euro>38</budget_2020_k_euro>
+    </venditore>
+
+    <venditore>
+    	<area>EURO</area>
+        <anagrafica>Doe John</anagrafica>
+	<fatturato_2019_k_euro>100</fatturato_2019_k_euro>
+	<budget_2020_k_euro>115</budget_2020_k_euro>
+    </venditore>
+    <venditore>
+    	<area>EURO</area>
+        <anagrafica>Couton Joseph</anagrafica>
+	<fatturato_2019_k_euro>130</fatturato_2019_k_euro>
+	<budget_2020_k_euro>190</budget_2020_k_euro>
+    </venditore>
+
+    <venditore>
+    	<area>AME</area>
+        <anagrafica>Smith Adam</anagrafica>
+	<fatturato_2019_k_euro>110</fatturato_2019_k_euro>
+	<budget_2020_k_euro>130</budget_2020_k_euro>
+    </venditore>
+    <venditore>
+    	<area>AME</area>
+        <anagrafica>Kennet Alfred</anagrafica>
+	<fatturato_2019_k_euro>40</fatturato_2019_k_euro>
+	<budget_2020_k_euro>90</budget_2020_k_euro>
+    </venditore>
+
+    <venditore>
+    	<area>AS</area>
+        <anagrafica>Kamenev Piotr</anagrafica>
+	<fatturato_2019_k_euro>67</fatturato_2019_k_euro>
+	<budget_2020_k_euro>80</budget_2020_k_euro>
+    </venditore>
+    <venditore>
+    	<area>AS</area>
+        <anagrafica>Chi Lin</anagrafica>
+	<fatturato_2019_k_euro>80</fatturato_2019_k_euro>
+	<budget_2020_k_euro>98</budget_2020_k_euro>
+    </venditore>
+</venditori>    
+    

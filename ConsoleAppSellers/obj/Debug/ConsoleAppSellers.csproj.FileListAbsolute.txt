@@ -1,0 +1,8 @@
+C:\ConsoleAppSellers\ConsoleAppSellers\bin\Debug\ConsoleAppSellers.exe.config
+C:\ConsoleAppSellers\ConsoleAppSellers\bin\Debug\ConsoleAppSellers.exe
+C:\ConsoleAppSellers\ConsoleAppSellers\bin\Debug\ConsoleAppSellers.pdb
+C:\ConsoleAppSellers\ConsoleAppSellers\obj\Debug\ConsoleAppSellers.csproj.AssemblyReference.cache
+C:\ConsoleAppSellers\ConsoleAppSellers\obj\Debug\ConsoleAppSellers.csproj.CoreCompileInputs.cache
+C:\ConsoleAppSellers\ConsoleAppSellers\obj\Debug\ConsoleAppSellers.exe
+C:\ConsoleAppSellers\ConsoleAppSellers\obj\Debug\ConsoleAppSellers.pdb
+C:\ConsoleAppSellers\ConsoleAppSellers\obj\Debug\ConsoleAppSellers.exe.config
